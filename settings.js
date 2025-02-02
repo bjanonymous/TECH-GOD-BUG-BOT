@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "+2349111457831"
+global.ownername = "King of boyz"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
-global.location = "India, Up, Rampur"
+global.location = "nowhere, Up, lala"
 
 global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
+global.ownername = 'king of boys' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -60,9 +60,9 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by Tech god or premium user only',
-    admin: 'This feature can be used by Tech god or admin only',
+    admin: 'This feature can be used by TOP BOY or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by Tech god or owner only',
+    owner: 'This feature can be used by TOP BOY or owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
